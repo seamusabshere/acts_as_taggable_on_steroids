@@ -1,7 +1,5 @@
-require 'tag'
 require 'tag_counts_extension'
 require 'tag_list'
-require 'tagging'
 require 'tags_helper'
 
 module ActiveRecord #:nodoc:
