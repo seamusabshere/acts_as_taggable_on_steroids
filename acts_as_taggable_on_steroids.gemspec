@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = "acts_as_taggable_on_steroids"
-  s.version  = "1.2"
+  s.version  = "1.3"
   s.date     = "2008-12-30"
   s.summary  = "Rails plugin that is based on acts_as_taggable by DHH but includes extras such as tests, smarter tag assignment, and tag cloud calculations."
   s.email    = "jonathan.viney@gmail.com"
